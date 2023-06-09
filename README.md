@@ -6,8 +6,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ##Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://yosrajalali.github.io/Results-summary-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/resultssummarycomponent-1i_NBAzXQj](https://www.frontendmentor.io/solutions/resultssummarycomponent-1i_NBAzXQj)
+- Live Site URL: [https://yosrajalali.github.io/Results-summary-component/](https://yosrajalali.github.io/Results-summary-component/)
 
 ## Table of contents
 
