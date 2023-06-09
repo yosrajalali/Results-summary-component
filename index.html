@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Results summary component</title>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+
+  <body>
+    <main class="container">
+      <section class="result">
+        <span class="title">Your Result</span>
+        <div class="circle">
+          <h1 class="gained__score">76</h1>
+          <p class="total__score">of 100</p>
+        </div>
+        <h3 class="result__feedback">Great</h3>
+        <p class="result__feedback__text">
+          You scored higher than 65% of the people who have taken these tests.
+        </p>
+      </section>
+      <section class="summary">
+        <p>Summary</p>
+        <ul>
+          <li class="list__item red__item">
+            <div>
+              <img src="assets/images/icon-reaction.svg" alt="reaction icon" />
+              <p>Reaction</p>
+            </div>
+            <div>
+              <span class="my__score">80</span>
+              <span class="hundred__score">/ 100</span>
+            </div>
+          </li>
+          <li class="list__item yellow__item">
+            <div>
+              <img src="assets/images/icon-memory.svg" alt="reaction icon" />
+              <p>Memory</p>
+            </div>
+            <div>
+              <span class="my__score">92</span>
+              <span class="hundred__score">/ 100</span>
+            </div>
+          </li>
+          <li class="list__item green__item">
+            <div>
+              <img src="assets/images/icon-verbal.svg" alt="reaction icon" />
+              <p>Verbal</p>
+            </div>
+            <div>
+              <span class="my__score">61</span>
+              <span class="hundred__score">/ 100</span>
+            </div>
+          </li>
+          <li class="list__item blue__item">
+            <div>
+              <img src="assets/images/icon-visual.svg" alt="reaction icon" />
+              <p>Visual</p>
+            </div>
+            <div>
+              <span class="my__score">72</span>
+              <span class="hundred__score">/ 100</span>
+            </div>
+          </li>
+        </ul>
+        <button class="btn">Continue</button>
+      </section>
+    </main>
+  </body>
+</html>
